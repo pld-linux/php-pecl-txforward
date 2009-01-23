@@ -8,7 +8,7 @@ Release:	1
 License:	PHP 3.01
 Group:		Development/Languages/PHP
 Source0:	http://pecl.php.net/get/%{_modname}-%{version}.tgz
-# Source0-md5:	428ab3a37ed4d8435bb4671351bea347
+# Source0-md5:	635ffd2b5375d14de5c2013238f1928e
 URL:		http://pecl.php.net/package/txforward/
 BuildRequires:	php-devel >= 3:5.0.0
 BuildRequires:	rpmbuild(macros) >= 1.344
