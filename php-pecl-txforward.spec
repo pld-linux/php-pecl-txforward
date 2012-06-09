@@ -3,12 +3,12 @@
 Summary:	%{_modname} - Reverse Proxy (web accelerator) PHP compatibility layer
 #Summary(pl.UTF-8):	%{_modname} -
 Name:		php-pecl-%{_modname}
-Version:	1.0.6
-Release:	3
+Version:	1.0.7
+Release:	1
 License:	PHP 3.01
 Group:		Development/Languages/PHP
 Source0:	http://pecl.php.net/get/%{_modname}-%{version}.tgz
-# Source0-md5:	635ffd2b5375d14de5c2013238f1928e
+# Source0-md5:	46b80b0f8acfeda5364d8e0812e0a34f
 URL:		http://pecl.php.net/package/txforward/
 BuildRequires:	php-devel >= 3:5.0.0
 BuildRequires:	rpmbuild(macros) >= 1.344
