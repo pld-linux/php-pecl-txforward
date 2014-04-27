@@ -4,7 +4,7 @@
 Summary:	%{modname} - Reverse Proxy (web accelerator) PHP compatibility layer
 Name:		%{php_name}-pecl-%{modname}
 Version:	1.0.7
-Release:	4
+Release:	5
 License:	PHP 3.01
 Group:		Development/Languages/PHP
 Source0:	http://pecl.php.net/get/%{modname}-%{version}.tgz
